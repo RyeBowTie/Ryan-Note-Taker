@@ -1,6 +1,6 @@
 # Ryan-Note-Taker
 
-http://ryansnotetaker.herokuapp.com/
+https://ryansnotetaker.herokuapp.com/
 
 # Description 
 
